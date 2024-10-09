@@ -1,6 +1,4 @@
-package espace;
-
-public class Boule 
+public class Boule
 {
 	/*creation des attributs*/
 	

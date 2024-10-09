@@ -1,4 +1,3 @@
-package espace;
 import java.util.Scanner;
 
 public class Point 

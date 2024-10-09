@@ -1,5 +1,3 @@
-package espace;
-
 public class Espace
 {//début de la classe Espace
 	
